@@ -1,2 +1,2 @@
 # GCP-test
-An Excel sheet ingestion GCP microservice using Python (Flask)
+A GCP microservice template using Python (Flask)
