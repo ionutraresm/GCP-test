@@ -2,7 +2,7 @@
 A sample Hello World server.
 """
 import os
-import requests
+#import requests
 
 from flask import Flask, render_template
 
